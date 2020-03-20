@@ -1,0 +1,1 @@
+[03-Sep-2015 10:11:51 UTC] PHP Warning:  file_get_contents(https://api.westminster.org.uk/api1/1/auth.asp?username=james.bithell&amp;password=snbtFK83]): failed to open stream: HTTP request failed!  in /home/jamesbithell/public_html/jbithell.com/projects/mary/westminsterlogin/logincheck.php on line 5
